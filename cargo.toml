@@ -1,0 +1,8 @@
+[package]
+name = "unknown-png"
+version = "0.0.1"
+authors = ["Dmytro Paduchak dmytro.paduchak@gmail.com"]
+edition = "2021"
+
+[dependencies]
+image = "0.24"
